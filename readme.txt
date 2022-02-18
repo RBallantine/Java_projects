@@ -1,1 +1,2 @@
-Name: Ronan Ballantine
+Ronan Ballantine 
+Infix Calculator
