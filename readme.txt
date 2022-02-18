@@ -1,2 +1,0 @@
-Ronan Ballantine 
-Infix Calculator
